@@ -1,0 +1,168 @@
+{
+  "version": "2.0.0",
+  "source": "project",
+  "metadata": {
+    "version": "2.0.0",
+    "description": "project 级资源注册表",
+    "createdAt": "2025-06-21T05:25:34.382Z",
+    "updatedAt": "2025-06-21T05:25:34.384Z",
+    "resourceCount": 11
+  },
+  "resources": [
+    {
+      "id": "xiaomo",
+      "source": "project",
+      "protocol": "role",
+      "name": "Xiaomo 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/xiaomo/xiaomo.role.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.382Z",
+        "updatedAt": "2025-06-21T05:25:34.382Z",
+        "scannedAt": "2025-06-21T05:25:34.382Z"
+      }
+    },
+    {
+      "id": "automotive-intelligence",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Automotive Intelligence 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/thought/automotive-intelligence.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "hardware-design",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Hardware Design 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/thought/hardware-design.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "aspice-development",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Aspice Development 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/execution/aspice-development.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "cost-optimization",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Cost Optimization 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/execution/cost-optimization.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "functional-safety",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Functional Safety 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/execution/functional-safety.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "market-intelligence",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Market Intelligence 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/xiaomo/execution/market-intelligence.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.383Z",
+        "updatedAt": "2025-06-21T05:25:34.383Z",
+        "scannedAt": "2025-06-21T05:25:34.383Z"
+      }
+    },
+    {
+      "id": "automotive-standards",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Automotive Standards 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/domain/xiaomo/knowledge/automotive-standards.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.384Z",
+        "updatedAt": "2025-06-21T05:25:34.384Z",
+        "scannedAt": "2025-06-21T05:25:34.384Z"
+      }
+    },
+    {
+      "id": "domain-controller",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Domain Controller 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/domain/xiaomo/knowledge/domain-controller.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.384Z",
+        "updatedAt": "2025-06-21T05:25:34.384Z",
+        "scannedAt": "2025-06-21T05:25:34.384Z"
+      }
+    },
+    {
+      "id": "intelligent-driving",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Intelligent Driving 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/domain/xiaomo/knowledge/intelligent-driving.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.384Z",
+        "updatedAt": "2025-06-21T05:25:34.384Z",
+        "scannedAt": "2025-06-21T05:25:34.384Z"
+      }
+    },
+    {
+      "id": "semiconductor-chips",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Semiconductor Chips 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/domain/xiaomo/knowledge/semiconductor-chips.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-06-21T05:25:34.384Z",
+        "updatedAt": "2025-06-21T05:25:34.384Z",
+        "scannedAt": "2025-06-21T05:25:34.384Z"
+      }
+    }
+  ],
+  "stats": {
+    "totalResources": 11,
+    "byProtocol": {
+      "role": 1,
+      "thought": 2,
+      "execution": 4,
+      "knowledge": 4
+    },
+    "bySource": {
+      "project": 11
+    }
+  }
+}
